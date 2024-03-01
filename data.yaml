@@ -1,0 +1,10 @@
+Permission: ALLOW environment:roles:manage-settings
+Teams:
+  - name: Team1
+    ManagementZone:
+      - Zone1
+      - Zone2
+  - name: Team2
+    ManagementZone:
+      - Zone3
+      - Zone4
